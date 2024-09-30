@@ -1,2 +1,4 @@
-# dnc-desafio1-landingpage
-Desafio 1: Desenvolva uma landing page como portfólio para uma empresa de arquitetura.
+## **Desafio 1 - Resolução**
+
+ - Link do site disponibilizado: https://k4rlladesafiobase.netlify.app/
+ - Link da planilha de registro de informação: https://shorturl.at/dql0j
